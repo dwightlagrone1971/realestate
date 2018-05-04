@@ -1,0 +1,19 @@
+{
+  "name": "realestate",
+  "version": "1.0.0",
+  "description": "FCC Realestate Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwightlagrone1971/realestate.git"
+  },
+  "author": "Dwight LaGrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwightlagrone1971/realestate/issues"
+  },
+  "homepage": "https://github.com/dwightlagrone1971/realestate#readme"
+}
